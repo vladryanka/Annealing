@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.Form1.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.Properties.Resources.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.csproj.GenerateResource.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\bin\Debug\Annealing.exe.config
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\bin\Debug\Annealing.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\bin\Debug\Annealing.pdb
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\Annealing\Annealing\obj\Debug\Annealing.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Annealing.AnnealingClass">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="Property" Hidden="true" />
+    </Members>
+    <AssociationLine Name="Graph" Type="Annealing.Graph">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.287" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAEAAABAAAAAAAAAAAABAAAAAAAgAAAAAAQAAAAA=</HashCode>
+      <FileName>AnnealingClass.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Graph" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Annealing.Graph">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIABABAAAQAAAAAAIAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
